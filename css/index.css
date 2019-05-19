@@ -1,0 +1,29 @@
+.logo-img{
+  width: 180px;
+  height: 180px;
+  padding: 2px;
+}
+
+
+.social-iconos img{
+  width: 30px;
+  height: 30px;
+
+
+}
+
+.articulo-2 img{
+  max-height: 90%;
+}
+
+
+
+@media (min-width: 576px)  {
+  .social-iconos{
+    position: relative;
+    margin-top: 120px;
+  }
+
+
+
+}
